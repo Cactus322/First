@@ -1,0 +1,89 @@
+.images {
+	width:70px !important;
+	height:70px !important;
+}
+
+@media (max-width: 767px) {
+	.font-second {font-size: 20px;}
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+	.font-second {font-size: 22px;}
+}
+
+.colors {
+	background-color: #FF4500;
+	max-width: 100%;
+	height:auto;
+	text-align:center;
+}
+
+.btn-colors {
+	background-color: #FF4500;
+	height: 45px;
+}
+
+.navbar-colors {
+	background-color: #262626;
+	height: 75px;
+}
+
+.fluid-padding {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.tmr {
+	margin-left: 97px;
+}
+
+.tmr2 {
+	margin-left: 95px;
+}
+
+.tmr3 {
+	margin-left: 93px;
+}
+
+.link-colors {
+	color: #FF4500;
+}
+
+.text-colors {
+	color: #FF4500;
+}
+
+.btn-mar {
+	margin-left: 640px;
+	margin-right: 20px;
+}
+
+.bg-colors {
+	background-color: #262626;
+	height: 150px;
+}
+
+.fake-logo {
+	background-color: #FF4500;
+	height: 20px;
+	margin-right:
+}
+
+.mar-left {
+	margin-left: 130px;
+	margin-top: 50px;
+}
+
+.mar-left-2 {
+	margin-left: 130px;
+}
+
+.home-bg-colors {
+	background-color: #FF4500;
+	width: 35px;
+	height:;
+}
+
+.btn-zayavka {
+	margin-left:833px;
+}
